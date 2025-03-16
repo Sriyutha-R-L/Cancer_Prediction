@@ -23,7 +23,7 @@ It can detect **Lung Cancer, Cervical Cancer, Breast Cancer, Thyroid Cancer, and
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/cancer-prediction-ml.git
+git clone https://github.com/Sriyutha-R-L/cancer-prediction-ml.git
 cd cancer-prediction-ml
 ```
 
