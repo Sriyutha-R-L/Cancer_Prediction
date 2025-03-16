@@ -86,3 +86,7 @@ This project is open-source. Feel free to use and improve it. 🚀
 
 ## 💡 Need Help?
 If you have any issues, feel free to create an **Issue** on GitHub or contact me.  
+
+##Authors
+R.L.Sriyutha[https://github.com/Sriyutha-R-L]
+M.Venkata Sai Koushik[https://github.com/Venkata-sai-koushik-M]
